@@ -28,7 +28,7 @@ dependencies = ["nomad-lab[infrastructure]==1.4.2rc1"]
 >>>>>>> 0d0cf19 (Changed nomad and plugin versions.)
 
 [project.urls]
-repository = "https://github.com/FAIRmat-NFDI/nomad-distro-template"
+repository = "https://github.com/sanbrock/nomad-disctro-all"
 
 [project.optional-dependencies]
 # Add your plugins to the list below.
